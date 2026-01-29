@@ -26,5 +26,6 @@ Saponaro, S., Lizzi, F., Serra, G., Mainas, F., Oliva, P., Giuliano, A., Caldero
   url = {[https://doi.org/10.21203/rs.3.rs-3372317/v1] (https://braininformatics.springeropen.com/articles/10.1186/s40708-023-00217-4)},
   publisher = {Springer Berlin Heidelberg},
 }
+```
 
 This paper received the annual Best Paper Award of Brain Informatics Springer journal.
