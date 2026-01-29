@@ -27,4 +27,4 @@ Saponaro, S., Lizzi, F., Serra, G., Mainas, F., Oliva, P., Giuliano, A., Caldero
   publisher = {Springer Berlin Heidelberg},
 }
 
-
+This paper received by Springer the annual Best Paper Award of Brain Informatics journal.
